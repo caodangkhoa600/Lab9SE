@@ -1,0 +1,7 @@
+Student: 
++ Score = 5 should return C.
++ Score = 7 should return B.
+
+StudentService:
++ Should throw exception when add null.
++ Should return false when do not insert.
